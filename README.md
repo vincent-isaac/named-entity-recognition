@@ -12,7 +12,7 @@ techniques to train our model.Bidirectional Recurrent Neural Networks connect tw
 of opposite directions to the same output.
 
 ## DATA SET
-![image](https://github.com/vincent-isaac/named-entity-recognition/assets/75234588/9f5e0d45-c325-47a7-a13c-dd851bffbedf)
+![image](https://github.com/vincent-isaac/named-entity-recognition/assets/75234588/32104438-2c54-4f9a-8877-0b33ce6d5464)
 
 
 ## DESIGN STEPS
