@@ -141,7 +141,9 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![img](https://github.com/vijay21500269/named-entity-recognition/blob/main/dl2.png)
 
 ### Sample Text Prediction:
-![img](https://github.com/vijay21500269/named-entity-recognition/blob/main/dl3.png)
+
+![ner](https://github.com/vincent-isaac/named-entity-recognition/assets/75234588/9ed37f17-a39d-4441-8d6f-e96416cb16eb)
+
 
 ## RESULT
 Successfully developed LSTM based rnn model for named-entity-recognition.
